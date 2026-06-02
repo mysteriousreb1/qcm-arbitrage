@@ -1,0 +1,3431 @@
+{
+  "sourceCounts": {
+    "2025": 440,
+    "2022": 449
+  },
+  "mergedCount": 459,
+  "skippedDuplicatesCount": 430,
+  "skippedDuplicates": [
+    {
+      "skipped": "2025",
+      "kept": "2025",
+      "legacyId": "Q33-12",
+      "keptLegacyId": "Q33-11",
+      "question": "La règle du demi-cercle de non-charge ne doit pas être appliquée et tout contact doit être jugé selon les règlements hab"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q2-1",
+      "keptLegacyId": "Q2-1",
+      "question": "La zone avant d'une équipe comprend le panier de l'adversaire, la face interne du panneau de l'adversaire, et est délimi"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q2-2",
+      "keptLegacyId": "Q2-2",
+      "question": "Le joueur A13 met le pied sur la ligne de fond sans que celui-ci ne dépasse dans le terrain de jeu pour effectuer une re"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q2-3",
+      "keptLegacyId": "Q2-3",
+      "question": "Aucun obstacle, y compris les personnes assises sur le banc d'équipe, ne doit être à moins de:"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q2-4",
+      "keptLegacyId": "Q2-4",
+      "question": "Selon le règlement FIBA, l'intérieur des zones restrictives doit être peint d'une couleur unique."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q4-1",
+      "keptLegacyId": "Q4-1",
+      "question": "Pendant un intervalle de jeu, tous les membres d'équipe autorisés à jouer sont considérés comme joueurs."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q4-2",
+      "keptLegacyId": "Q4-2",
+      "question": "Un membre d'équipe est autorisé à jouer s'il n'est pas inscrit sur la feuille de marque au début mais s'il se présente a"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q4-3",
+      "keptLegacyId": "Q4-3",
+      "question": "A5 porte une protection en métal sur un doigt. La protection est complètement recouverte par un bandage souple. Les arbi"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q4-4",
+      "keptLegacyId": "Q4-4",
+      "question": "Un membre de l'équipe qui est inscrit au début de la rencontre n'est pas autorisé à jouer s'il se présente après le débu"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-1",
+      "keptLegacyId": "Q5-1",
+      "question": "Si un joueur se blesse ou paraît être blessé et qu’en conséquence l’entraîneur, l’entraîneur adjoint, un remplaçant ou t"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-2",
+      "keptLegacyId": "Q5-2",
+      "question": "Il n’y a pas de limite de temps pour évacuer du terrain de jeu un joueur sérieusement blessé si, selon l’avis du médecin"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-3",
+      "keptLegacyId": "Q5-3",
+      "question": "Si un joueur est blessé, qu’il saigne ou qu’il a une blessure ouverte et ne peut pas continuer à jouer immédiatement (en"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-4",
+      "keptLegacyId": "Q5-4",
+      "question": "Un joueur blessé est autorisé à rejouer s'il récupère dans un délai d'environ 45 secondes."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-5",
+      "keptLegacyId": "Q5-5",
+      "question": "A4 semble s’être blessé à la cheville et le jeu est arrêté. Il doit être remplacé si:"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-6",
+      "keptLegacyId": "Q5-6",
+      "question": "A4 est blessé et le jeu est arrêté. Etant donné qu’A4 est incapable de continuer à jouer immédiatement, l’arbitre siffle"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-7",
+      "keptLegacyId": "Q5-7",
+      "question": "A12 est désigné par son entraîneur pour commencer la rencontre. Lors de l'échauffement A12 se blesse et son entraîneur d"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-8",
+      "keptLegacyId": "Q5-8",
+      "question": "A10 saigne et doit être remplacé. Il peut rester en jeu si :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-9",
+      "keptLegacyId": "Q5-9",
+      "question": "A10 tombe et reste au sol à proximité de son banc d'équipe, l'arbitre arrête la rencontre. Sur autorisation de l'arbitre"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-10",
+      "keptLegacyId": "Q5-10",
+      "question": "A6 est blessé et le jeu est arrêté. Etant donné qu’A6 est incapable de continuer à jouer immédiatement, l’arbitre siffle"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-11",
+      "keptLegacyId": "Q5-11",
+      "question": "Un joueur blessé qui n’a pas reçu de soins dispose de 15 secondes pour récupérer avant d’être obligatoirement remplacé s"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-12",
+      "keptLegacyId": "Q5-12",
+      "question": "Le joueur A11 tombe et a du mal à se relever. Après une dizaine de secondes, il se relève à l'aide de l'entraîneur qui e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-13",
+      "keptLegacyId": "Q5-13",
+      "question": "Dans le quatrième quart-temps, le joueur A10 se blesse. L'équipe A n'a plus de remplaçant. Pour qu'il puisse continuer à"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-14",
+      "keptLegacyId": "Q5-14",
+      "question": "A5 se blesse. Avant que l'arbitre ait fait le signe de remplacement, l'entraineur B demande un TM.\nA5 peut-il être autor"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-15",
+      "keptLegacyId": "Q5-15",
+      "question": "A5 se blesse, l'entraineur B demande un TM après que le remplaçant de A5 a pénétré sur le terrain.\nA5 peut-il être autor"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-16",
+      "keptLegacyId": "Q5-16",
+      "question": "A5 se blesse. Constatant que A5 ne peut pas reprendre le jeu immédiatement, l'arbitre fait le signe\nde remplacement. L'e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-17",
+      "keptLegacyId": "Q5-17",
+      "question": "A8 est blessé lors d'un choc avec B4 et reste au sol. Les remplaçants A5 et A6 veulent entrer sur le\nterrain avec le méd"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-18",
+      "keptLegacyId": "Q5-18",
+      "question": "A8 est blessé et il reste au sol. Au moment où le médecin de son équipe rentre sur le terrain, A8 se\nrelève et signale a"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q5-19",
+      "keptLegacyId": "Q5-19",
+      "question": "B8 se blesse dans le 4ème QT et ne peut pas continuer à jouer immédiatement. L’équipe B n’a plus\nde remplaçant. Le joueu"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q6-1",
+      "keptLegacyId": "Q6-1",
+      "question": "L'équipe A contrôle le ballon vivant sur le terrain lorsque le capitaine B6 veut demander une information aux arbitres s"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q6-2",
+      "keptLegacyId": "Q6-2",
+      "question": "Une faute technique est sifflée à A5. Le capitaine de l'équipe B doit désigner le joueur qui va tirer les lancers francs"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q6-3",
+      "keptLegacyId": "Q6-3",
+      "question": "Si le capitaine désigné sur la feuille de marque devient remplaçant, qui désigne le nouveau capitaine sur le terrain ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q6-5",
+      "keptLegacyId": "Q6-4",
+      "question": "Le capitaine peut-il parler à l'arbitre quand il le veut parce qu'il est capitaine ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q7-1",
+      "keptLegacyId": "Q7-1",
+      "question": "Juste avant l'entre-deux initial, le marqueur s'aperçoit que A12 se trouve sur le terrain pour débuter la rencontre alor"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q7-2",
+      "keptLegacyId": "Q7-2",
+      "question": "L'équipe A présente la liste d'équipe cinquante minutes avant la rencontre. Les numéros de deux joueurs sur leur maillot"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q7-3",
+      "keptLegacyId": "Q7-3",
+      "question": "Pendant le jeu, l'entraîneur adjoint peut-il se lever quand l'entraîneur est assis ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q7-4",
+      "keptLegacyId": "Q7-4",
+      "question": "Pendant le jeu, l'entraîneur adjoint peut se lever en même temps que l'entraîneur si c'est simplement pour parler à ses "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q7-5",
+      "keptLegacyId": "Q7-5",
+      "question": "Le numéro du joueur A7 n'est pas correct sur la feuille de marque. L'arbitre s'en aperçoit avant le début de la rencontr"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q7-6",
+      "keptLegacyId": "Q7-6",
+      "question": "Un entraîneur-joueur commet sa 5ème faute sur le terrain. Il doit sortir. Il peut continuer à entraîner."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q7-7",
+      "keptLegacyId": "Q7-7",
+      "question": "Un entraîneur-joueur commet sa 2ème faute antisportive sur le terrain. Il est donc disqualifié. Il peut tout de même con"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q7-8",
+      "keptLegacyId": "Q7-8",
+      "question": "Une faute technique est sifflée à A5. L'entraîneur de l'équipe B doit désigner le joueur qui va tirer les lancers francs"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q7-9",
+      "keptLegacyId": "Q7-9",
+      "question": "Alors qu'une violation vient d'être sifflée, l'aide entraîneur A vient voir la table pour demander le\nnombre de faute de"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q8-1",
+      "keptLegacyId": "Q8-1",
+      "question": "Au début de la rencontre, l'intervalle de jeu prend fin lorsque le ballon quitte les mains de l'arbitre effectuant l'ent"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q8-2",
+      "keptLegacyId": "Q8-2",
+      "question": "Au début du 2ème quart-temps, l'intervalle de jeu prend fin lorsque le ballon quitte les mains du joueur effectuant la r"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q8-3",
+      "keptLegacyId": "Q8-3",
+      "question": "Lors d'une rencontre qui commence en retard, le club local demande à l'arbitre d'écourter l'intervalle entre le 2ème et "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q8-4",
+      "keptLegacyId": "Q8-4",
+      "question": "Lors d'une rencontre, le club local demande à l'arbitre d'allonger l'intervalle entre le 2ème et le 3ème quart-temps pou"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q8-5",
+      "keptLegacyId": "Q8-5",
+      "question": "L'arbitre de tête siffle une faute sur tir en même temps que le signal de fin de temps de jeu du 3ème quart-temps. Les l"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q8-7",
+      "keptLegacyId": "Q8-7",
+      "question": "Lors de la RJ de début de 3ème période, A8 pousse B5 pour se démarquer alors que le ballon vient\nde quitter les mains de"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q9-1",
+      "keptLegacyId": "Q9-1",
+      "question": "Alors que la rencontre doit commencer, l'équipe A a moins de 5 joueurs sur le terrain de jeu prêts à jouer. Sachant que "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q9-2",
+      "keptLegacyId": "Q9-2",
+      "question": "Après le commencement de la rencontre, les arbitres découvrent que les deux équipes jouent dans la mauvaise direction. L"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q9-3",
+      "keptLegacyId": "Q9-3",
+      "question": "Au commencement d’une période, l’équipe A défend son propre panier lorsque B4 dribble par erreur vers son propre panier "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q9-4",
+      "keptLegacyId": "Q9-4",
+      "question": "Quand commence la rencontre ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q9-5",
+      "keptLegacyId": "Q9-5",
+      "question": "Si une prolongation est nécessaire, les équipes attaquent sur les mêmes paniers qu'au quatrième quart-temps."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q9-6",
+      "keptLegacyId": "Q9-6",
+      "question": "Huit joueurs de l'équipe B sont inscrits sur la feuille de marque, mais seulement quatre sont arrivés au moment de début"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q9-7",
+      "keptLegacyId": "Q9-7",
+      "question": "Au début de la rencontre, la première période commence lorsque le ballon quitte les mains de l'arbitre effectuant l'entr"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q9-8",
+      "keptLegacyId": "Q9-8",
+      "question": "Au début du 2ème quart-temps, l'intervalle de jeu prend fin lorsque le ballon quitte les mains de l'arbitre effectuant l"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q9-9",
+      "keptLegacyId": "Q9-9",
+      "question": "Lors de la RJ de début de 3ème période, A8 pousse B5 pour se démarquer alors que le ballon vient\nde quitter les mains de"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q10-1",
+      "keptLegacyId": "Q10-1",
+      "question": "Le ballon est vivant dans tous les cas suivants:\n- lors de l'entre-deux initial, le ballon quitte les mains de l'arbitre"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q10-2",
+      "keptLegacyId": "Q10-2",
+      "question": "Lors de l'E2 initial, le ballon est vivant dès qu'il est légalement frappé par un des 2 sauteurs."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q10-3",
+      "keptLegacyId": "Q10-3",
+      "question": "Lors du dernier LF, le ballon devient vivant lorsqu'il est à la disposition du tireur de LF."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q10-4",
+      "keptLegacyId": "Q10-4",
+      "question": "Lors d'une remise en jeu, le ballon devient vivant lorsqu'il est légalement touché par un joueur sur le terrain."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q10-5",
+      "keptLegacyId": "Q10-5",
+      "question": "Le ballon est en l'air lors d'un tir lorsqu'une faute est sifflée à B8.\nQuel est le statut du ballon après le coup de si"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q10-7",
+      "keptLegacyId": "Q10-7",
+      "question": "Lors d'un entre-deux, le ballon devient vivant lorsqu’il est frappé légalement par l'un des deux sauteurs."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q 10-8",
+      "keptLegacyId": "Q 10-8",
+      "question": "Simultanément avec le signal du chronométreur indiquant la fin de la période, une faute est sifflée à\nB12 sur A6 qui tir"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q11-1",
+      "keptLegacyId": "Q11-1",
+      "question": "A11 passe le ballon depuis sa zone arrière. Le ballon touche un arbitre qui a un pied de chaque côté de la ligne médiane"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q11-2",
+      "keptLegacyId": "Q11-2",
+      "question": "La position d'un joueur en l'air est déterminée par l'endroit où il retombe au sol."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q11-3",
+      "keptLegacyId": "Q11-3",
+      "question": "La position d'un joueur en l'air est déterminée par l'endroit où il était lorsqu'il a sauté."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q11-4",
+      "keptLegacyId": "Q11-4",
+      "question": "A6 effectue une passe à A12 qui est proche de la ligne de touche. Le ballon est dévié par B11, et touche l'arbitre qui a"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-1",
+      "keptLegacyId": "Q12-1",
+      "question": "A15 et B13 sautent à l'entre-deux initial. Le ballon est frappé par A15 et retombe dans les mains du joueur B5 à l'extér"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-2",
+      "keptLegacyId": "Q12-2",
+      "question": "A15 et B13 sautent à l'entre-deux initial. Le ballon est frappé par A15 et retombe dans les mains du joueur B5 à l'extér"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-3",
+      "keptLegacyId": "Q12-3",
+      "question": "A15 et B13 sautent à l'entre-deux initial. Le ballon est frappé par A15, puis A5 et B5 le prennent en même temps et l'ar"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-4",
+      "keptLegacyId": "Q12-4",
+      "question": "A7 et B8 tiennent fermement le ballon et essaient de le prendre pendant plusieurs secondes. L'arbitre doit alors siffler"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-5",
+      "keptLegacyId": "Q12-5",
+      "question": "Lors de l'entre-deux initial, les sauteurs peuvent se placer où ils veulent dans le cercle central."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-6",
+      "keptLegacyId": "Q12-6",
+      "question": "Lors de l'entre-deux initial, un joueur de l'équipe A veut se placer entre deux joueurs de l'équipe B qui étaient placés"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-7",
+      "keptLegacyId": "Q12-7",
+      "question": "L'arbitre lance le ballon pour l'entre-deux initial, le ballon retombe au sol sans qu'un sauteur ne l'ait touché. L'entr"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-8",
+      "keptLegacyId": "Q12-8",
+      "question": "Deux joueurs sont proches de la ligne de touche. Le ballon sort, mais l'arbitre ne sait pas qui a touché le ballon le de"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-9",
+      "keptLegacyId": "Q12-9",
+      "question": "Lors de l'entre-deux initial, le sauteur B15 sait qu'il n'aura pas le gain du ballon et décide de ne pas sauter. C'est l"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-10",
+      "keptLegacyId": "Q12-10",
+      "question": "Lors de l'entre-deux initial, le sauteur A14 sait qu'il n'aura pas le gain du ballon et décide de se reculer d'un pas to"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-11",
+      "keptLegacyId": "Q12-11",
+      "question": "A9 tire au panier, et le ballon reste coincé entre le panier et le panneau. "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q12-12",
+      "keptLegacyId": "Q12-12",
+      "question": "La remise en jeu d'une possession alternée :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q13-1",
+      "keptLegacyId": "Q13-1",
+      "question": "Pour intercepter et le lancer plus loin, B14 frappe du poing le ballon lors d'une passe de A4 vers A9. L'arbitre ne doit"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q13-2",
+      "keptLegacyId": "Q13-2",
+      "question": "A13 et B14 sautent pour l'entre-deux initial. A13 frappe le ballon du poing pour l'envoyer vers A15. L'arbitre doit siff"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q13-3",
+      "keptLegacyId": "Q13-3",
+      "question": "Pendant une situation de rebond, A14 frappe volontairement le ballon de la tête. Est-ce légal ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q13-4",
+      "keptLegacyId": "Q13-4",
+      "question": "B7 attrape le ballon alors qu'il est au sol et le fait rouler pour le lancer à B11. Cette action est légale."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q13-5",
+      "keptLegacyId": "Q13-5",
+      "question": "B9 fait une passe à B7, lançant le ballon, il l'envoie sur la cuisse de A11 qui passait sur la trajectoire de passe . L'"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q13-6",
+      "keptLegacyId": "Q13-6",
+      "question": "A9 lance le ballon à A13. Le défenseur B7 lève sa jambe et dévie le ballon avec sa cuisse. Cette action est légale."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q13-7",
+      "keptLegacyId": "Q13-7",
+      "question": "A14 qui a arrêté son dribble et qui est au sol, fait rouler le ballon vers A9 qui est proche de lui. Cette action est lé"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-1",
+      "keptLegacyId": "Q14-1",
+      "question": "Alors que A5 a le ballon pour une remise en jeu, A8 commet une faute sur B6. C'est la 5ème faute de l'équipe A. Les arbi"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-2",
+      "keptLegacyId": "Q14-2",
+      "question": "Le joueur A11 tire en l'air, alors que le ballon a quitté ses mains, il retombe sur le défenseur B5. L'équipe A a plus d"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-3",
+      "keptLegacyId": "Q14-3",
+      "question": "L'action de tir et le contrôle du ballon se terminent toujours en même temps ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-4",
+      "keptLegacyId": "Q14-4",
+      "question": "Le joueur B7 tire au panier en l'air. Le ballon a quitté ses mains. Avant de reposer ses pieds au sol, il retombe sur A1"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-5",
+      "keptLegacyId": "Q14-5",
+      "question": "Une équipe peut contrôler le ballon alors que le chronomètre de jeu est arrêté ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-6",
+      "keptLegacyId": "Q14-6",
+      "question": "A5 passe le ballon à A12. Lorsque le ballon est en l'air sur la passe, le contrôle est toujours à l'équipe A ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-7",
+      "keptLegacyId": "Q14-7",
+      "question": "Lors d'une passe de B5 vers B10, A6 dévie le ballon qui retombe dans les mains de B10. L'équipe A a contrôlé le ballon u"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-8",
+      "keptLegacyId": "Q14-8",
+      "question": "Un joueur contrôle le ballon lorsqu'il dribble ou lorsque que le ballon repose dans une ou ses deux mains."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-9",
+      "keptLegacyId": "Q14-9",
+      "question": "A6 effectue une passe de RJ, le ballon est touché par B8 puis contrôlé par A9. L'équipe A contrôle-t-elle le ballon aprè"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-10",
+      "keptLegacyId": "Q14-10",
+      "question": "Alors que le ballon vient de quitter les mains de A6 chargé d'une RJ, A7 pousse B6 pour se démarquer. L'arbitre siffle u"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-11",
+      "keptLegacyId": "Q14-11",
+      "question": "Alors que le ballon est à disposition de A8 pour une RJ, A9 commet une faute sur B7 en se démarquant. C'est la 5ème faut"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q14-12",
+      "keptLegacyId": "Q14-12",
+      "question": "Le joueur A15 tire au panier. Le ballon ne touche ni le panneau ni l'anneau. A15 le rattrape avant\nqu'il ne soit touché "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q15-1",
+      "keptLegacyId": "Q15-1",
+      "question": "Le joueur A5 commence une action de tir en double pas. B16 tente de le contrer mais tape sur son bras. Au moment de cett"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q15-2",
+      "keptLegacyId": "Q15-2",
+      "question": "A6 tire au panier en l'air. Alors qu'il a lâché le ballon, il retombe sur un pied lorsque B8 qui voulait le contrer, ret"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q15-3",
+      "keptLegacyId": "Q15-3",
+      "question": "B8 tire à trois points lorsque A7 lui tape sur le bras. Le panier est marqué. L'arbitre siffle, accorde le panier à troi"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q15-4",
+      "keptLegacyId": "Q15-4",
+      "question": "Sur son dernier dribble, A5 est poussé par B7. La faute est sifflée. Puis A5 enchaîne un double pas et tire. Le panier e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q15-5",
+      "keptLegacyId": "Q15-5",
+      "question": "A10 tire à 3 pts. Le ballon a quitté ses mains et ses deux pieds sont posés au sol lorsque B9 qui a tenté de le contrer "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q15-6",
+      "keptLegacyId": "Q15-6",
+      "question": "A10 tire à 3 pts. Le ballon a quitté ses mains et ses deux pieds sont posés au sol lorsque B9 qui a tenté de le contrer "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q15-7",
+      "keptLegacyId": "Q15-7",
+      "question": "A10 tire à 3 pts. Le ballon a quitté ses mains et ses deux pieds sont posés au sol lorsque B9 qui a tenté de le contrer "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q15-8",
+      "keptLegacyId": "Q15-8",
+      "question": "A4 est en action de tir à deux points. B7 tente de le contrer par derrière, mais le pousse dans le dos. L'arbitre siffle"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q15-9",
+      "keptLegacyId": "Q15-9",
+      "question": "Le ballon a quitté les mains de B12 qui tire à trois points. A5 pousse B12 qui est encore en l'air. L'arbitre siffle la "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q15-10",
+      "keptLegacyId": "Q15-10",
+      "question": "Un joueur est en action de tir lorsqu'il frappe le ballon en direction du panier"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q15-11",
+      "keptLegacyId": "Q15-11",
+      "question": "Alors que l’équipe A part en contre-attaque, l’entraîneur de l’équipe B conteste de façon véhémente\nauprès de l’arbitre "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q16-1",
+      "keptLegacyId": "Q16-1",
+      "question": "L'équipe A bénéficie d'une remise en jeu avec comme temps affiché au chronomètre 0.2 seconde. Alors que le ballon est en"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q16-2",
+      "keptLegacyId": "Q16-2",
+      "question": "Lors du dernier lancer franc de A6, le ballon rebondit sur le cercle et A8 le touche avant qu'il ne retombe dans le pani"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q16-3",
+      "keptLegacyId": "Q16-3",
+      "question": "A10 tire à trois points. B5 qui est dans la zone à deux points, tente de le contrer dans la phase montante, mais touche "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q16-5",
+      "keptLegacyId": "Q16-5",
+      "question": "Le joueur A7 qui vient d'entrer intercepte le ballon sur une remise en jeu de l'équipe B ligne de fond et marque acciden"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q16-6",
+      "keptLegacyId": "Q16-6",
+      "question": "Lors de la lutte pour le ballon au rebond, le joueur B6 tape la ballon qui entre dans son propre panier. L'arbitre doit "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q16-7",
+      "keptLegacyId": "Q16-7",
+      "question": "Il reste 0,2 (deux dixièmes) seconde à jouer. Le joueur B8 qui effectue la remise en jeu passe le ballon à B5 près du pa"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q17-1",
+      "keptLegacyId": "Q17-1",
+      "question": "A10 bénéficie d’une remise en jeu. Alors qu’il détient le ballon, les mains de A10 coupent le plan vertical de la ligne "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q17-2",
+      "keptLegacyId": "Q17-2",
+      "question": "Après une violation de l'équipe B, A13 reçoit le ballon de la part de l'arbitre pour la remise en jeu. A13 remet le ball"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q17-3",
+      "keptLegacyId": "Q17-3",
+      "question": "Lors de la dernière minute de la rencontre, A4 tente deux lancers francs. Pendant le second lancer franc, A4 met le pied"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q17-4",
+      "keptLegacyId": "Q17-4",
+      "question": "Dans les deux dernières minutes de la rencontre, un \"marcher\" est sifflé à A7 qui faisait un lay up. L'entraîneur A dema"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q17-6",
+      "keptLegacyId": "Q17-6",
+      "question": "L'équipe B vient de marquer un panier. A7 effectue la remise en jeu ligne de fond."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q17-7",
+      "keptLegacyId": "Q17-7",
+      "question": "Dans les deux dernières minutes de la rencontre, A8 remonte le ballon dans la zone arrière de son\néquipe. 4 sec se sont "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q17-8",
+      "keptLegacyId": "Q17-8",
+      "question": "A10 effectue une remise en jeu ligne de fond. Son défenseur direct lui tourne le dos. A10 décide alors de lancer le ball"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q17-9",
+      "keptLegacyId": "Q17-9",
+      "question": "En voulant faire une passe à un coéquipier dans la zone restrictive, le joueur A8, qui effectue la remise en jeu ligne d"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q17-10",
+      "keptLegacyId": "Q17-10",
+      "question": "Lors d'une REJ par A4, ce dernier remet le ballon dans les mains de A5 pour éviter l'interception du ballon par B6 qui e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q17-11",
+      "keptLegacyId": "Q17-11",
+      "question": "Lors d'une REJ de l'extérieur du terrain, A8 lance le ballon en direction du panier pour une tentative\nde claquette par "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q17-12",
+      "keptLegacyId": "Q17-12",
+      "question": "A4 effectue la remise en jeu. A5 à qui est adressée la passe est sous pression de B4. A5 s'empare\ndu ballon avant qu'il "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-1",
+      "keptLegacyId": "Q18-1",
+      "question": "Une équipe ne répondant pas à l'avertissement et prolongeant son retard de retour sur le terrain au delà de la minute rè"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-2",
+      "keptLegacyId": "Q18-2",
+      "question": "B4 est sanctionné d'une 5ème faute.  Un temps mort a été demandé par l'équipe B. L’occasion de temps-mort commence seule"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-3",
+      "keptLegacyId": "Q18-3",
+      "question": "Après que le ballon a quitté les mains de l'arbitre lors de l’entre-deux initial, mais avant qu'il soit légalement frapp"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-4",
+      "keptLegacyId": "Q18-4",
+      "question": "Une occasion de temps-mort vient juste de se terminer lorsque l’entraîneur A se précipite vers la table de marque en dem"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-5",
+      "keptLegacyId": "Q18-5",
+      "question": "La durée d'un temps-mort est de 50 secondes"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-6",
+      "keptLegacyId": "Q18-6",
+      "question": "Pour qu'une occasion de temps-mort commence, il faut :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-7",
+      "keptLegacyId": "Q18-7",
+      "question": "L'entraîneur B n'ayant utilisé que deux temps-morts en deuxième mi-temps peut utiliser son troisième temps-mort lors de "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-8",
+      "keptLegacyId": "Q18-8",
+      "question": "L'entraîneur A a demandé un temps-mort. Juste avant que le marqueur siffle pour le demander à l'arbitre, l'entraîneur A "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-9",
+      "keptLegacyId": "Q18-9",
+      "question": "L'entraîneur B a demandé un temps mort. L'arbitre siffle une violation et le marqueur siffle pour le répercuter. Immédia"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-10",
+      "keptLegacyId": "Q18-10",
+      "question": "Dans les deux dernières minutes de la rencontre, l'équipe A marque un panier. Le chronomètre de jeu est immédiatement ar"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-11",
+      "keptLegacyId": "Q18-11",
+      "question": "Dans les deux dernières minutes de la rencontre, l'équipe A marque un panier. Le chronomètre de jeu est immédiatement ar"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-12",
+      "keptLegacyId": "Q18-12",
+      "question": "A4 bénéficie de deux lancers-francs. L'équipe A ou B demande un temps-mort après la première tentative de lancer franc. "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-13",
+      "keptLegacyId": "Q18-13",
+      "question": "A4 bénéficie de deux lancers-francs. L'équipe A ou B demande un  temps-mort après la réussite du second lancer franc, ma"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-14",
+      "keptLegacyId": "Q18-14",
+      "question": "A4 bénéficie de deux lancers-francs. L'équipe A ou B demande un  temps-mort avant que le ballon soit à la disposition du"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-15",
+      "keptLegacyId": "Q18-15",
+      "question": "A4 bénéficie de deux lancers-francs. L'équipe A ou B demande un  temps-mort après la réussite du second lancer franc, ap"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-16",
+      "keptLegacyId": "Q18-16",
+      "question": "Les deux entraîneurs ont fait une demande de TM (A puis B). A5 est victime d'une faute sur un dunk réussi. A quelle équi"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-17",
+      "keptLegacyId": "Q18-17",
+      "question": "Un temps mort prend fin lorsque l'arbitre siffle et fait signe aux équipes de revenir sur le terrain ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-18",
+      "keptLegacyId": "Q18-18",
+      "question": "Le joueur A6 est sanctionné de sa cinquième faute personnelle. L’entraîneur de l’équipe B\ndemande un TM au même moment. "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q18-19",
+      "keptLegacyId": "Q18-19",
+      "question": "Suite à un panier marqué par l'équipe A, le ballon est dans les mains de B6 derrière la ligne de fond\nlorsque l'entraîne"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-1",
+      "keptLegacyId": "Q19-1",
+      "question": "Le ballon est en l'air lors d'un tir au panier de B10 lorsque l'appareil des 24 secondes retentit. Le panier est marqué."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-2",
+      "keptLegacyId": "Q19-2",
+      "question": "Au cours de la première période, B7 est sanctionné d’une violation d’intervention illégale sur un tir de A4. Au moment o"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-3",
+      "keptLegacyId": "Q19-3",
+      "question": "Alors que le jeu est en cours, il est découvert que l’équipe A a plus de cinq joueurs sur le terrain de jeu. Au moment d"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-4",
+      "keptLegacyId": "Q19-4",
+      "question": "Une occasion de remplacement prend fin lorsque le ballon est à la disposition d'un joueur pour un premier ou unique lanc"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-5",
+      "keptLegacyId": "Q19-5",
+      "question": "Suite à un panier marqué par l'équipe B dans le deuxième quart-temps, avant que l'équipe A fasse la remise en jeu, le ma"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-6",
+      "keptLegacyId": "Q19-6",
+      "question": "L'équipe B marque un panier dans le dernier quart-temps à une minute de la fin du temps de jeu. Avant que l'équipe A ne "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-7",
+      "keptLegacyId": "Q19-7",
+      "question": "Une occasion de remplacement prend fin lorsque le ballon est à la disposition d'un joueur pour une remise en jeu."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-8",
+      "keptLegacyId": "Q19-8",
+      "question": "Le joueur B4 est remplacé. B6 entre sur le terrain. Puis l'entraîneur A demande un temps-mort. Le temps mort est accordé"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-9",
+      "keptLegacyId": "Q19-9",
+      "question": "Le joueur B4 est remplacé. B6 entre sur le terrain. Puis une faute technique est sifflée à l'entraîneur A. B4 peut reven"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-10",
+      "keptLegacyId": "Q19-10",
+      "question": "L'équipe B marque un panier dans le dernier quart-temps à une minute de la fin du temps de jeu. Avant que l'équipe A ne "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-11",
+      "keptLegacyId": "Q19-11",
+      "question": "Le remplaçant B5 veut entrer en jeu."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-12",
+      "keptLegacyId": "Q19-12",
+      "question": "Le remplaçant A9 a demandé un remplacement. Juste avant que le marqueur siffle pour le demander à l'arbitre, A9 annule s"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-13",
+      "keptLegacyId": "Q19-13",
+      "question": "Le remplaçant B12 a demandé un remplacement. L'arbitre siffle une violation et le marqueur siffle pour le demander à l'a"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-14",
+      "keptLegacyId": "Q19-14",
+      "question": "Le remplaçant doit rester à l'extérieur des lignes délimitant le terrain jusqu'à ce que l'arbitre siffle, fasse le signa"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-15",
+      "keptLegacyId": "Q19-15",
+      "question": "Une occasion de remplacement vient juste de se terminer lorsque l'entraîneur A se précipite vers la table de marque en d"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-16",
+      "keptLegacyId": "Q19-16",
+      "question": "A4 bénéficie de deux lancers-francs. L'équipe A ou B demande un remplacement après la première tentative de lancer franc"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-17",
+      "keptLegacyId": "Q19-17",
+      "question": "A4 bénéficie de deux lancers-francs. L'équipe A ou B demande un remplacement après la réussite du second lancer franc, m"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-18",
+      "keptLegacyId": "Q19-18",
+      "question": "A4 bénéficie de deux lancers-francs. L'équipe A ou B demande un remplacement avant que le ballon soit à la disposition d"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-19",
+      "keptLegacyId": "Q19-19",
+      "question": "A4 bénéficie de deux lancers-francs. L'équipe A ou B demande un remplacement après la réussite du second lancer franc, a"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-20",
+      "keptLegacyId": "Q19-20",
+      "question": "L'équipe A bénéficie de 2LF et du ballon suite à une faute antisportive. Lors du 1er LF, l'équipe B\ndemande un remplacem"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-21",
+      "keptLegacyId": "Q19-21",
+      "question": "A8 qui bénéficie de 2 LF (+ remise en jeu)  est blessé. Il est remplacé par A9. Avant le 1er LF, le\nmarqueur signale une"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-22",
+      "keptLegacyId": "Q19-22",
+      "question": "A6 tire son dernier LF et le réussit. Alors que le ballon n'est pas encore à disposition de B6 pour la\nRJ, la table inte"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-23",
+      "keptLegacyId": "Q19-23",
+      "question": "A6 se blesse lors d'un tir. Il est remplacé par A4 qui tire ses lancers francs. Le dernier LF est raté\nmais lors du rebo"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-24",
+      "keptLegacyId": "Q19-24",
+      "question": "Le signal des 24 secondes retentit alors que le ballon est en l'air à la suite d'un tir tenté par B15. Le\npanier est réu"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-25",
+      "keptLegacyId": "Q19-25",
+      "question": "Une demande de remplacement ou de temps mort peut être annulée à tout moment avant que\nl'arbitre ne siffle pour l'accord"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q19-26",
+      "keptLegacyId": "Q19-26",
+      "question": "Un remplacement a été demandé à la table par A6 qui se trouve assis sur la chaise des\nremplaçants. Une faute est sifflée"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q20-1",
+      "keptLegacyId": "Q20-1",
+      "question": "L'équipe B n'est pas arrivée pour le match à l'heure prévue pour la rencontre. Après 30 minutes, l'arbitre effectue un e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q20-2",
+      "keptLegacyId": "Q20-2",
+      "question": "L'équipe B n'est pas arrivée pour la rencontre à l'heure prévue. Après 15 minutes, l'arbitre effectue un entre-deux fict"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q20-3",
+      "keptLegacyId": "Q20-3",
+      "question": "L'équipe B a cinq joueurs pour commencer la rencontre, mais l'un d'entre-eux a un plâtre au bras. Il sera sur le terrain"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q21-1",
+      "keptLegacyId": "Q21-1",
+      "question": "Alors qu'il ne reste que 2 joueurs de l'équipe A sur le terrain, le joueur A4 commet sa cinquième faute. La rencontre es"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q21-2",
+      "keptLegacyId": "Q21-2",
+      "question": "Alors qu'il ne reste que 3 joueurs de l'équipe B sur le terrain, le joueur B8 commet sa cinquième faute. La rencontre es"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q21-3",
+      "keptLegacyId": "Q21-3",
+      "question": "L'équipe B n'est pas arrivée pour la rencontre à l'heure prévue. Après 15 minutes, l'arbitre effectue un entre-deux fict"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q22-1",
+      "keptLegacyId": "Q22-1",
+      "question": "A7 sort le ballon ligne de fond juste sous le panier. La remise en jeu sera donc pour l'équipe B, ligne de fond, à l'end"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q22-2",
+      "keptLegacyId": "Q22-2",
+      "question": "A5 dribble dans sa zone avant entre la ligne médiane et la ligne à trois points. Une violation \"trois secondes\" est siff"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q22-3",
+      "keptLegacyId": "Q22-3",
+      "question": "A5 dribble dans sa zone avant entre la ligne médiane et la ligne à trois points. Une violation \"trois secondes\" est siff"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q23-1",
+      "keptLegacyId": "Q23-1",
+      "question": "A7 effectue une passe à A13 qui se situe proche de la ligne de fond. Alors que le ballon est en l'air, B12 intercepte le"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q23-2",
+      "keptLegacyId": "Q23-2",
+      "question": "Le joueur A4 dribble près de la ligne de touche. Il perd un peu l'équilibre, et met un pied à l'extérieur du terrain, sa"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q23-3",
+      "keptLegacyId": "Q23-3",
+      "question": "A9 tire au panier. Le ballon rebondit sur l'anneau et touche ensuite le dessus du panneau. Le ballon retombe dans les ma"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q23-4",
+      "keptLegacyId": "Q23-4",
+      "question": "A5 dribble et arrête son dribble près de la ligne de touche. B8 essaie de lui prendre le ballon des mains. Les deux joue"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q23-5",
+      "keptLegacyId": "Q23-5",
+      "question": "A10 tire à trois points. Le ballon rebondit sur l'anneau, passe par-dessus le panneau et retombe derrière sans rien touc"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q23-6",
+      "keptLegacyId": "Q23-6",
+      "question": "Alors que A5 et B6 tiennent fermement le ballon, B6 met le pied sur la ligne de touche.\nDoit-on siffler un ballon hors j"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q24-1",
+      "keptLegacyId": "Q24-1",
+      "question": "A7 arrête son dribble et tire au panier, le ballon ne touche ni l’anneau, ni le panneau. A7 reprend son propre rebond. A"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q24-2",
+      "keptLegacyId": "Q24-2",
+      "question": "B8 dribble et le ballon lui échappe maladroitement des mains à la fin du dribble. Il reprend alors le ballon à deux main"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q24-3",
+      "keptLegacyId": "Q24-3",
+      "question": "A12 dribble et le ballon lui échappe maladroitement des mains à la fin du dribble. Il reprend alors le ballon à deux mai"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q24-4",
+      "keptLegacyId": "Q24-4",
+      "question": "A5 part en contre attaque et dribble. Entre son premier et son deuxième dribble, il a effectué trois pas. Cette action e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q24-5",
+      "keptLegacyId": "Q24-5",
+      "question": "A4 dribble en contre attaque. Après son premier dribble, il fait 3 pas avant de dribbler une deuxième fois. L'arbitre do"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q24-6",
+      "keptLegacyId": "Q24-6",
+      "question": "L'arbitre doit siffler \"porter du ballon\" lorsque le ballon repose dans une ou deux mains d'un joueur et que ce dernier "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q24-7",
+      "keptLegacyId": "Q24-7",
+      "question": "A6 arrête son dribble et tient le ballon à deux mains. Son défenseur B8 tape sur le ballon qui rebondit par terre. A6 le"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q24-8",
+      "keptLegacyId": "Q24-8",
+      "question": "A8 arrête son dribble et tient le ballon à deux mains. Son défenseur B7 tape sur le ballon qui rebondit par terre. A8 le"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q24-9",
+      "keptLegacyId": "Q24-9",
+      "question": "A4 dribble et s'arrête. B6 tape sur le ballon dans les mains de A4 sans que celui-ci perde le ballon,\npuis A4 dribble. D"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q24-10",
+      "keptLegacyId": "Q24-10",
+      "question": "A5 tape la balle dans les mains de B6 qui vient d'arrêter de dribbler. Le ballon rebondit au sol.\nB6 le prend à deux mai"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q25-1",
+      "keptLegacyId": "Q25-1",
+      "question": "Un joueur plonge au sol, s'empare du ballon en roulant avant de passer le ballon. Cette action est légale."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q25-2",
+      "keptLegacyId": "Q25-2",
+      "question": "Alors qu'il est allongé au sol, A5 prend le contrôle du ballon. Ensuite A5 commence un dribble alors qu'il est encore al"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q25-3",
+      "keptLegacyId": "Q25-3",
+      "question": " Le joueur B5 intercepte une passe et attrape le ballon en l’air. Il retombe au sol en deux temps (pied gauche, puis pie"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q25-4",
+      "keptLegacyId": "Q25-4",
+      "question": "Alors qu’il tient le ballon, A13 perd l’équilibre et tombe involontairement au sol et fait une passe à A7. L'arbitre lai"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q25-5",
+      "keptLegacyId": "Q25-5",
+      "question": "Alors qu’il est allongé au sol, A8 prend le contrôle du ballon. Les actions suivantes de A8 sont légales."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q25-6",
+      "keptLegacyId": "Q25-6",
+      "question": "La règle du marcher ne peut s'appliquer que pour un joueur qui tient un ballon vivant sur le terrain de jeu."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q25-7",
+      "keptLegacyId": "Q25-7",
+      "question": "A13 reçoit le ballon alors qu'il est en l'air, il retombe sur le pied gauche, saute sur ce même pied et retombe simultan"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q25-8",
+      "keptLegacyId": "Q25-8",
+      "question": "A13 reçoit le ballon à l'arrêt, il effectue un départ direct en dribble. A13 peut:"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q25-9",
+      "keptLegacyId": "Q25-9",
+      "question": "A13 tente un tir au panier à mi-distance. Alors qu'il a décollé les deux pieds du sol, B7 le contre et A13 retombe au so"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q25-10",
+      "keptLegacyId": "Q25-10",
+      "question": "A13 tente un tir proche de la fin du temps de jeu. Son ballon ne touche rien, il court et reprend son propre rebond. L'a"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q25-11",
+      "keptLegacyId": "Q25-11",
+      "question": "A5 plonge au sol pour s’emparer du ballon. Il glisse sur le dos, s’assoit, commence un dribble puis se relève. Cette act"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q26-1",
+      "keptLegacyId": "Q26-1",
+      "question": "La règle des trois secondes ne s'applique que lorsque l'équipe contrôle un ballon vivant sur le terrain en zone avant."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q26-2",
+      "keptLegacyId": "Q26-2",
+      "question": "L'équipe A bénéficie d'une remise en jeu dans sa zone avant et c'est A10 qui l'effectue. Alors qu'il a le ballon dans le"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q26-3",
+      "keptLegacyId": "Q26-3",
+      "question": "B15 effectue une remise en jeu dans sa zone avant. Le ballon est dans ses mains, lorsque l'arbitre siffle violation \"tro"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q26-4",
+      "keptLegacyId": "Q26-4",
+      "question": "A8 est dans la zone restrictive depuis 2 secondes lorsque A10 tire au panier à trois points. Le ballon ne touche pas l'a"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q26-5",
+      "keptLegacyId": "Q26-5",
+      "question": "Quelques tolérances à la règle des trois secondes sont accordées au joueur qui :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q26-6",
+      "keptLegacyId": "Q26-6",
+      "question": "La remise en jeu suite à une violation \"trois secondes\" sifflée, se fera ligne de fond (sauf si un panier est annulé)."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q26-7",
+      "keptLegacyId": "Q26-7",
+      "question": "A5 effectue une remise en jeu en zone avant. Lorsque A6 reçoit le ballon sur le terrain, A12 est\ndans la zone restrictiv"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q26-8",
+      "keptLegacyId": "Q26-8",
+      "question": "A5 effectue une remise en jeu en zone arrière. A12 se trouve immobile dans la zone restrictive\nadverse. A6 dribble le ba"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q27-1",
+      "keptLegacyId": "Q27-1",
+      "question": "A4 tient le ballon dans sa zone arrière et B7 vient défendre très près de lui en essayant d'attraper le ballon. Après qu"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q27-2",
+      "keptLegacyId": "Q27-2",
+      "question": "B6 dribble dans sa zone avant et arrête son dribble. A5 son défenseur à une distance d'environ deux mètres reste face à "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q27-3",
+      "keptLegacyId": "Q27-3",
+      "question": "B6 reçoit le ballon dans sa zone avant. Il reste 16 secondes à jouer. Il garde le ballon dans les mains et attend que le"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q27-4",
+      "keptLegacyId": "Q27-4",
+      "question": "Il reste 20 secondes à jouer et A4 dribble sur place, sans bouger ses appuis, dans sa zone avant. B5 défend proche de lu"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q27-5",
+      "keptLegacyId": "Q27-5",
+      "question": "A5 dribble. Son défenseur B10 peut se placer proche de lui (moins d'un mètre)."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q28-1",
+      "keptLegacyId": "Q28-1",
+      "question": "A4 dribble dans sa zone arrière. Il passe le ballon à A8 qui se trouve à cheval sur la ligne médiane. L'appareil des 24 "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q28-2",
+      "keptLegacyId": "Q28-2",
+      "question": "A4 dribble dans sa zone arrière. Il passe le ballon à A8 qui se trouve à cheval sur la ligne médiane. L'appareil des 24 "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q28-3",
+      "keptLegacyId": "Q28-3",
+      "question": "L'équipe A contrôlait le ballon depuis 5 secondes dans sa zone arrière lorsqu'un ballon tenu est sifflé. L'équipe A béné"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q28-4",
+      "keptLegacyId": "Q28-4",
+      "question": "A10 se tient à cheval sur la ligne médiane. Il reçoit un ballon de A12 qui se trouve dans sa zone arrière. A10 renvoie e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q28-5",
+      "keptLegacyId": "Q28-5",
+      "question": "A12 dribble et s'arrête à cheval sur la ligne médiane. Il passe le ballon à A10 également à cheval sur la ligne médiane."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q28-6",
+      "keptLegacyId": "Q28-6",
+      "question": "A4 dribble depuis sa zone arrière et arrête sa progression vers l'avant tout en continuant à dribbler alors que ses deux"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q28-7",
+      "keptLegacyId": "Q28-7",
+      "question": "L'équipe A contrôle le ballon depuis 6'' dans sa zone arrière lorsqu'une double faute est sifflée en\nzone arrière A entr"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q28-8",
+      "keptLegacyId": "Q28-8",
+      "question": "Le joueur B8 dribble en zone arrière au moment où l’arbitre siffle violation à la règle des 8s.\nL’appareil des 24s indiq"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q28-9",
+      "keptLegacyId": "Q28-9",
+      "question": "L’équipe A contrôle le ballon depuis 6 secondes dans sa zone arrière lorsque le ballon est sorti\nsimultanément par A12 e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-1",
+      "keptLegacyId": "Q29-1",
+      "question": "Lors d'une remise en jeu, le décompte des 24 sec commence lorsque le ballon est touché par un joueur sur le terrain."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-2",
+      "keptLegacyId": "Q29-2",
+      "question": "A8 effectue une remise en jeu après une violation d'un joueur de l'équipe B. \nA8 passe le ballon à A10, mais B6 touche l"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-3",
+      "keptLegacyId": "Q29-3",
+      "question": "A8 effectue une remise en jeu après une violation d'un joueur de l'équipe B. \nA8 passe le ballon à A10, mais B6 touche l"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-4",
+      "keptLegacyId": "Q29-4",
+      "question": "Lors de l'entre-deux initial de début de match, le sauteur A7 frappe le ballon et A10 le récupère. Le décompte des 24 se"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-5",
+      "keptLegacyId": "Q29-5",
+      "question": "L'équipe B contrôle le ballon. B13 effectue une passe à B10. A5 dévie la passe et c'est A11 qui contrôle le ballon. Le d"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-6",
+      "keptLegacyId": "Q29-6",
+      "question": "Pour être considéré comme tir au panier dans les 24 sec, il faut que le ballon touche l'anneau."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-7",
+      "keptLegacyId": "Q29-7",
+      "question": "A6 tire au panier. Le signal des 24 sec retentit. Le ballon ne touche pas l'anneau et A7 s'en empare\nimmédiatement. Est "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-8",
+      "keptLegacyId": "Q29-8",
+      "question": "Alors que A5 dribble, une double faute est sifflée. L'équipe A doit-elle bénéficier d'une nouvelle période de 24 sec"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-9",
+      "keptLegacyId": "Q29-9",
+      "question": "A6 tire au panier. Le ballon touche l'anneau, B7 s'empare du ballon. Alors que celui-ci part en\ncontre attaque le signal"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-10",
+      "keptLegacyId": "Q29-10",
+      "question": "A6 tire au panier. Le signal des 24 sec retentit. Le ballon ne touche pas l'anneau et est touché par B5 avant que B7 s'e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-11",
+      "keptLegacyId": "Q29-11",
+      "question": "Lors d'un tir au panier de l'équipe A, le ballon ne touche pas l'anneau. L'opérateur des 24 sec remet son appareil à 24 "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-12",
+      "keptLegacyId": "Q29-12",
+      "question": "L'équipe A contrôle le ballon sur le terrain. Il reste 9 sec dans la période des 24 sec lorsque le ballon sort des limit"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-13",
+      "keptLegacyId": "Q29-13",
+      "question": "L'équipe A contrôle le ballon depuis 15 sec dans sa zone avant lorsqu'une double faute est sifflée\nentre A12 et B14. L'é"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-14",
+      "keptLegacyId": "Q29-14",
+      "question": "B13 tire au panier et le ballon est en l’air quand le signal de l’appareil des 24 sec retentit. Le ballon se\ncoince dans"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-15",
+      "keptLegacyId": "Q29-15",
+      "question": "A12 tire au panier. Le ballon touche l’anneau, puis le signal des 24 sec retentit. L’équipe A\nprend le contrôle du ballo"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-16",
+      "keptLegacyId": "Q29-16",
+      "question": "Il reste 36 sec à jouer dans le dernier QT et l'équipe A mène de 2 points. L'équipe A contrôle le ballon\ndepuis 10 sec l"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-17",
+      "keptLegacyId": "Q29-17",
+      "question": "A la fin de la période de 24 sec, A4 tire au panier. Le tir est légalement contré par B4 et le signal de l'appareil des "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-18",
+      "keptLegacyId": "Q29-18",
+      "question": "L'équipe A contrôle le ballon depuis 23 sec. A9 passe alors le ballon à A10. Alors que le\nballon vient de quitter les ma"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-19",
+      "keptLegacyId": "Q29-19",
+      "question": "A13 fait une passe vers A15 pour une tentative de claquette. A15 ne parvient pas à toucher le ballon qui touche l'anneau"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q29-20",
+      "keptLegacyId": "Q29-20",
+      "question": "4 sec après que l’équipe A a pris le contrôle du ballon en zone arrière, B5 pousse le ballon\nen touche alors que A3 drib"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-1",
+      "keptLegacyId": "Q30-1",
+      "question": "L'équipe A contrôle le ballon dans sa zone avant. A7 passe le ballon à A13. B6 dévie la passe et A13 reprend le ballon d"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-2",
+      "keptLegacyId": "Q30-2",
+      "question": "A4 effectue une remise en jeu dans sa zone avant près de la ligne médiane. Il manque sa passe et son coéquipier A12 parv"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-3",
+      "keptLegacyId": "Q30-3",
+      "question": "A5 dribble dans sa zone arrière et avance vers sa zone avant. Son défenseur B8 tape le ballon et l'envoie dans la zone a"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-4",
+      "keptLegacyId": "Q30-4",
+      "question": "L'équipe A contrôle le ballon dans sa zone avant. A7 passe le ballon à A13. La passe est manquée et A13 va récupérer le "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-5",
+      "keptLegacyId": "Q30-5",
+      "question": "B13 dribble dans sa zone arrière et avance vers sa zone avant. Son défenseur A5 tape le ballon et l'envoie dans la zone "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-6",
+      "keptLegacyId": "Q30-6",
+      "question": "Proche de la ligne médiane, mais dans sa zone arrière, A7 passe le ballon à A10.\nB5 qui est lui aussi dans la zone arriè"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-7",
+      "keptLegacyId": "Q30-7",
+      "question": "Proche de la ligne médiane, A8 saute depuis sa zone avant, intercepte une passe entre B5 et B6 en prenant le contrôle du"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-8",
+      "keptLegacyId": "Q30-8",
+      "question": "Proche de la ligne médiane, dans sa zone avant, B10 passe le ballon à B5. B5 n'attrape pas le ballon. Le ballon va vers "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-9",
+      "keptLegacyId": "Q30-9",
+      "question": "Proche de la ligne médiane, A5 passe le ballon à A9, tous les deux sont dans leur zone avant. La passe est manquée. Le b"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-10",
+      "keptLegacyId": "Q30-10",
+      "question": "A8 effectue une remise en jeu en zone avant à proximité de la ligne médiane. Il se déplace pour\nfaire la remise en jeu. "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-11",
+      "keptLegacyId": "Q30-11",
+      "question": "Le joueur B10 arrête son dribble et fait une passe à B6 en zone avant. Le ballon est dévié par A12\nen zone avant et revi"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-12",
+      "keptLegacyId": "Q30-12",
+      "question": "A8 dribble le ballon depuis la zone arrière de son équipe. Il s'arrête à cheval sur la ligne médiane et\narrête son dribb"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-13",
+      "keptLegacyId": "Q30-13",
+      "question": "Lors d'une REJ dans la zone avant de l'équipe A, A5 passe le ballon à A11 qui se trouve également\nen zone avant. A11 sau"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-14",
+      "keptLegacyId": "Q30-14",
+      "question": "A4 dribble depuis sa zone arrière en direction de sa zone avant. Sans arrêter de dribbler, il pose un\npied en zone avant"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-15",
+      "keptLegacyId": "Q30-15",
+      "question": "A4 dribble vers sa zone avant, pose les deux pieds sur la ligne médiane, passe le ballon avec un\nrebond en zone avant à "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q30-16",
+      "keptLegacyId": "Q30-16",
+      "question": "Alors que A5 et B6 tiennent fermement le ballon dans la zone avant de l'équipe B, B6 met le pied\nsur la ligne médiane. D"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-1",
+      "keptLegacyId": "Q31-1",
+      "question": "Le joueur A5 tire au panier. Le ballon tape le panneau au-dessus du niveau de l'anneau, puis B10 contre le ballon. Cette"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-2",
+      "keptLegacyId": "Q31-2",
+      "question": "B8 tire un lay up, le ballon touche le panneau sous l'anneau, puis le défenseur B10 le contre. Cette action est légale"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-3",
+      "keptLegacyId": "Q31-3",
+      "question": "Lors d'un tir de B10 proche du cercle, le ballon est en phase montante lorsque A9 le touche, le panier est tout de même "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-4",
+      "keptLegacyId": "Q31-4",
+      "question": "B9 tire à mi-distance, et alors que le ballon descend vers le cercle, A10 le dévie. Cette action est légale."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-5",
+      "keptLegacyId": "Q31-5",
+      "question": "A8 tire au panier, le ballon est en l'air, B10 tape sur le panneau, et fait vibrer le panier de telle manière que cela e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-6",
+      "keptLegacyId": "Q31-6",
+      "question": "B10 tire au panier. Alors que le ballon est en l'air, A5 tape sur le panneau et le fait vibrer.Cette intervention n'empê"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-7",
+      "keptLegacyId": "Q31-7",
+      "question": "Lors d'un tir de A5, le ballon est en contact avec l'anneau et B10 touche le panneau. Le panier est manqué. L'arbitre do"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-8",
+      "keptLegacyId": "Q31-8",
+      "question": "Lors d'un tir de B10, le ballon est en contact avec l'anneau et B4 touche le panneau. Le panier rentre. L'arbitre doit a"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-9",
+      "keptLegacyId": "Q31-9",
+      "question": "Alors que le ballon est en l'air et au dessus du niveau de l'anneau lors d'un tir, un défenseur fait vibrer le panneau a"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-10",
+      "keptLegacyId": "Q31-10",
+      "question": "A4 bénéficie de 2 LF. Pendant le dernier LF, B5 touche le ballon en passant la main au travers du filet après que le bal"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-11",
+      "keptLegacyId": "Q31-11",
+      "question": "A6 bénéficie de 2 LF, lors du second LF, le ballon est touché par B7 avant de toucher l'anneau.\nDoit-on siffler une faut"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-12",
+      "keptLegacyId": "Q31-12",
+      "question": "Lors d'un tir de A6 le ballon rebondit sur l'anneau puis retombe sur l'anneau. A8 touche le panneau alors que le ballon "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-13",
+      "keptLegacyId": "Q31-13",
+      "question": "Lors d'une passe de A5, le ballon est au dessus de l'anneau lorsque B6 le chasse en passant la main au travers du filet."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-14",
+      "keptLegacyId": "Q31-14",
+      "question": "A6 tente un tir. Alors que le ballon vient de quitter ses mains, l'arbitre siffle une faute à un\nrebondeur. Le ballon to"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-15",
+      "keptLegacyId": "Q31-15",
+      "question": "Un dernier LF est tiré par A4. Le ballon touche l'anneau et rebondit. B4 touche le ballon mais ce\ndernier pénètre dans l"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-16",
+      "keptLegacyId": "Q31-16",
+      "question": "Le signal des 24 sec retentit alors que le ballon est en l'air et au dessus du niveau de l'anneau lors d'un tir, un défe"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-17",
+      "keptLegacyId": "Q31-17",
+      "question": "A4 bénéficie de 2 LF. Pendant le dernier LF, B5 chasse le ballon alors que celui-ci est en contact avec l'anneau. C'est "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-18",
+      "keptLegacyId": "Q31-18",
+      "question": "Seul l'attaquant peut toucher le panier ou le panneau pendant que le ballon est en contact avec l'anneau lors d'un tir a"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-19",
+      "keptLegacyId": "Q31-19",
+      "question": "Le signal de fin de rencontre retentit alors que le ballon est en l’air. Un défenseur chasse le ballon alors que celui-c"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-20",
+      "keptLegacyId": "Q31-20",
+      "question": "B15 effectue son dernier tir de LF. Après que le ballon a touché l’anneau et avant qu’il rentre dans le panier, A8 passe"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-21",
+      "keptLegacyId": "Q31-21",
+      "question": "L’arbitre siffle une faute de A13 sur B8 qui tire au panier. Alors que le ballon est dans sa phase ascendante vers le pa"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-22",
+      "keptLegacyId": "Q31-22",
+      "question": "B8 commet une faute sur A14 qui tire au panier. Alors que le ballon est en l’air, le ballon touche\nl’anneau et il est en"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-23",
+      "keptLegacyId": "Q31-23",
+      "question": "Une intervention d’un défenseur sur le ballon lors d’un lay-up est illégale si, après que le ballon a\ntouché le panneau,"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q31-24",
+      "keptLegacyId": "Q31-24",
+      "question": "A6 tente un tir. Alors que le ballon vient de quitter ses mains, l'arbitre siffle une faute à un rebondeur. Le ballon to"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q32-1",
+      "keptLegacyId": "Q32-1",
+      "question": "Une faute est :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-1",
+      "keptLegacyId": "Q33-1",
+      "question": "Un défenseur a établi une position légale de défense quand :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-2",
+      "keptLegacyId": "Q33-2",
+      "question": "Pour juger une action de passage en force, si le contact est créé par le porteur du ballon, il y a charge si :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-3",
+      "keptLegacyId": "Q33-3",
+      "question": "B10 veut se démarquer pour recevoir le ballon. A5 peut le coller et être très proche de lui s'il ne le tient pas."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-4",
+      "keptLegacyId": "Q33-4",
+      "question": "A8 saute pour tirer au panier. Alors qu'il est en l'air, B10 vient se placer droit devant lui. A8 retombe sur B10. L'arb"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-5",
+      "keptLegacyId": "Q33-5",
+      "question": "Après un tir de B6, A5 saute verticalement au rebond pour capter le ballon. Alors qu'A5 est en l'air, B12 se place à l'e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-6",
+      "keptLegacyId": "Q33-6",
+      "question": "A6 se dirige vers le cercle. Après avoir effectué son premier appui mais avant le second pour commencer son tir en cours"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-7",
+      "keptLegacyId": "Q33-7",
+      "question": "A6 se dirige vers le cercle. Après avoir effectué son second appui, il saute pour smasher, B7 en aide défensive vient se"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-8",
+      "keptLegacyId": "Q33-8",
+      "question": "B7 quitte le sol pour aller au rebond et tenter une claquette smashée, il a le droit :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-9",
+      "keptLegacyId": "Q33-9",
+      "question": "Lorsqu'un joueur essaie de retarder ou d'empêcher un adversaire sans le ballon d'atteindre une position désirée sur le t"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-10",
+      "keptLegacyId": "Q33-10",
+      "question": "Le joueur A13 pose un écran dans le champ visuel sur B12 sans être de face mais stationnaire. L'arbitre a jugé que l'écr"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-11",
+      "keptLegacyId": "Q33-11",
+      "question": "Pour poser un écran légal sur un adversaire, le joueur A13 doit avoir les deux pieds au sol au moment du contact."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-12",
+      "keptLegacyId": "Q33-12",
+      "question": "A13 pose un écran dans le dos de B15. A13 peut faire l'écran aussi près qu'il le désire à condition qu'il n'y ait pas de"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-13",
+      "keptLegacyId": "Q33-13",
+      "question": "Lors de la pose d'un écran, les éléments de temps et de distance doivent s'appliquer si l'écran est posé sur un joueur e"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-14",
+      "keptLegacyId": "Q33-14",
+      "question": "L'écran est légal lorsque le joueur qui fait un écran sur un adversaire :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-15",
+      "keptLegacyId": "Q33-15",
+      "question": "L'écran est illégal lorsque le joueur qui fait l'écran sur un adversaire :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-16",
+      "keptLegacyId": "Q33-16",
+      "question": "La distance maximale requise pour poser un écran sur un joueur en déplacement est:"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-17",
+      "keptLegacyId": "Q33-17",
+      "question": "B14 pose un écran sur A12, dans le champ visuel de celui-ci, pour que l'écran soit légal le joueur B14 :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-18",
+      "keptLegacyId": "Q33-18",
+      "question": "Si l'écran est fait hors du champ visuel d'un adversaire stationnaire, le joueur qui fait l'écran doit:"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-1",
+      "keptLegacyId": "Q33-1",
+      "question": "Le demi cercle de non charge fait parti de la zone de non charge"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-2",
+      "keptLegacyId": "Q33-2",
+      "question": "A1 dribble, puis saute pour tirer au panier et charge le torse de B2 dont un pied est en contact avec la ligne du 1/2 ce"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-3",
+      "keptLegacyId": "Q33-3",
+      "question": "A1 dribble, charge le torse de B2 dont un pied est en contact avec la ligne du 1/2 cercle de non charge puis saute, tire"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-4",
+      "keptLegacyId": "Q33-4",
+      "question": "A1 dribble le long de la ligne de fond et, après avoir atteint la zone derrière le panier saute en diagonale ou en arriè"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-5",
+      "keptLegacyId": "Q33-5",
+      "question": "Le tir au panier d'A1 touche l'anneau et une situation de rebond se produit. A2 saute en l'air, attrape le ballon et cha"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-6",
+      "keptLegacyId": "Q33-6",
+      "question": "A1 s'engage au panier et est en action de tir. Au lieu de terminer son tir au panier, A1 passe le ballon à A2 qui le sui"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-7",
+      "keptLegacyId": "Q33-7",
+      "question": "A1 s'engage au panier et est en action de tir. Au lieu de terminer son tir au panier, A1 passe le ballon à A2  qui se ti"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-8",
+      "keptLegacyId": "Q33-8",
+      "question": "A1 s'engage au panier et est en action de tir. A1 charge  B1 qui est en contact avec la zone du demi-cercle de non-charg"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-9",
+      "keptLegacyId": "Q33-9",
+      "question": "les principes pour que la règle de non charge s'applique sont : "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-10",
+      "keptLegacyId": "Q33-10",
+      "question": "La  zone de non charge"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-11",
+      "keptLegacyId": "Q33-11",
+      "question": "La règle du demi-cercle de non-charge ne doit pas être appliquée et tout contact doit être jugé selon les règlements hab"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q33-12",
+      "keptLegacyId": "Q33-11",
+      "question": "La règle du demi-cercle de non-charge ne doit pas être appliquée et tout contact doit être jugé selon les règlements hab"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q34-1",
+      "keptLegacyId": "Q34-1",
+      "question": "Parmi les critères suivants, quels sont ceux qui permettent à l'arbitre de déterminer qu'il y a passage en force ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q35-1",
+      "keptLegacyId": "Q35-1",
+      "question": "Alors qu'A4 est dans l’action de tir, un contact physique se produit entre le tireur A4 et B4. Le ballon pénètre dans le"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q35-2",
+      "keptLegacyId": "Q35-2",
+      "question": "Une double faute est une situation où :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q35-3",
+      "keptLegacyId": "Q35-3",
+      "question": "Le joueur B4 dribble. B6 et A13 commettent presque en même temps une faute l'un sur l'autre. L'arbitre siffle alors une "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q35-4",
+      "keptLegacyId": "Q35-4",
+      "question": "Lorsque l'arbitre siffle une double faute, chaque joueur concerné sera sanctionné d'une faute personnelle."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q35-5",
+      "keptLegacyId": "Q35-5",
+      "question": "A8 tire au panier et le marque. En même temps, l'arbitre siffle une double faute. Il accorde le panier et donne le ballo"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q35-6",
+      "keptLegacyId": "Q35-6",
+      "question": "Il y a une situation d'entre-deux lorsqu'une double faute est commise alors qu'aucune équipe ne contrôle le ballon"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q35-5",
+      "keptLegacyId": "Q35-5",
+      "question": "Les deux drapeaux de fautes d'équipe sont levés. A5 est sanctionné d'une faute sur B7 et en même temps B8 est sanctionné"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q35-6",
+      "keptLegacyId": "Q35-6",
+      "question": "L'équipe A contrôle le ballon depuis 5 sec dans sa zone arrière lorsque B6 et A8 sont sanctionnés\nd'une double faute en "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q35-7",
+      "keptLegacyId": "Q35-7",
+      "question": "Alors que le ballon est en l'air lors d'un dernier LF, une double faute est sifflée. Le LF est marqué. Le jeu doit-il re"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q35-8",
+      "keptLegacyId": "Q35-8",
+      "question": "Alors que le ballon est en l'air lors d'un dernier LF, une double faute est sifflée. Le LF est raté. Le jeu doit-il repr"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-1",
+      "keptLegacyId": "Q36-1",
+      "question": "Lors d'une REJ effectuée par B4, A15 reçoit un avertissement  pour une intervention illégale sur REJ. \nCet avertissement"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-2",
+      "keptLegacyId": "Q36-2",
+      "question": "B12 est averti par l'arbitre pour une action de flopping. \nLes arbitres doivent communiquer cet avertissement à l'entraî"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-3",
+      "keptLegacyId": "Q36-3",
+      "question": "A4 est joueur-entraîneur de l'équipe A. L'arbitre le sanctionne d'une faute technique pour s'être suspendu à l'anneau pe"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-4",
+      "keptLegacyId": "Q36-4",
+      "question": " Même après l'inscription du cinq de départ et la signature de la feuille de marque,  n'importe quel joueur de l'équipe "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-5",
+      "keptLegacyId": "Q36-5",
+      "question": "A12 est joueur-entraîneur de l'équipe A. Il est sanctionné d'une faute technique pour avoir critiqué l'arbitrage pendant"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-6",
+      "keptLegacyId": "Q36-6",
+      "question": "Le joueur B7 s'adresse de façon irrespectueuse à un arbitre car il est en désaccord avec sa décision. L'arbitre doit le "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-7",
+      "keptLegacyId": "Q36-7",
+      "question": "Un défenseur empêche illégalement le ballon d'atteindre le panier lors du dernier ou unique lancer franc. Un point sera "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-8",
+      "keptLegacyId": "Q36-8",
+      "question": "Une faute technique est sifflée à l'entraîneur adjoint de l'équipe A."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-9",
+      "keptLegacyId": "Q36-9",
+      "question": "A6, remplaçant sur le banc de son équipe, écope d'une faute technique. L'entraîneur adjoint  A réagit de façon virulente"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-10",
+      "keptLegacyId": "Q36-10",
+      "question": "A12 est sanctionné d'une faute technique pour s'être suspendu à l'anneau pendant l'échauffement avant le début de la ren"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-11",
+      "keptLegacyId": "Q36-11",
+      "question": "Une faute technique d'un joueur ne doit pas compter dans les fautes d'équipe."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-12",
+      "keptLegacyId": "Q36-12",
+      "question": "Pendant l'échauffement avant la rencontre, A8 casse l'anneau en s'y suspendant. Il est sanctionné d'une FT. Le LF peut ê"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-13",
+      "keptLegacyId": "Q36-13",
+      "question": "B5 est sanctionné de sa 5ème faute. En sortant du terrain il est sanctionné d'une FT. L'entraîneur B a déjà deux fautes "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-14",
+      "keptLegacyId": "Q36-14",
+      "question": "Alors que le signal de la fin de la 3ème période a retenti, B5 qui vient d'avoir sa 5ème faute est sanctionné d'une FT. "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-15",
+      "keptLegacyId": "Q36-15",
+      "question": "Le joueur A15 est sanctionné d'une faute dans le 3ème QT. Les officiels oublient de signifier à A15 qu'il s'agit de sa c"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-16",
+      "keptLegacyId": "Q36-16",
+      "question": "Suite à un coup reçu au rebond, A6 saigne du nez. L'arbitre fait le signe du remplacement. Mécontent, A6 s'en prend à l'"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-17",
+      "keptLegacyId": "Q36-17",
+      "question": "Alors que le signal de la fin de la 1ère période a retenti, B5 qui était remplaçant est sanctionné\nd'une FT. Cette faute"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-18",
+      "keptLegacyId": "Q36-18",
+      "question": "Dans la 1ère période, A5 simule un passage en force de B10. A l'arrêt de jeu suivant, l'arbitre avertit\nA5 et répercute "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-19",
+      "keptLegacyId": "Q36-19",
+      "question": "L’arbitre sanctionne A10 d’une faute technique avant le début de la rencontre. Le match débutera par 1 LF pour l’équipe "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-20",
+      "keptLegacyId": "Q36-20",
+      "question": "Dans le 3ème quart temps, A12 commet sa cinquième faute personnelle et le marqueur l’indique à l’arbitre afin que A12 so"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-21",
+      "keptLegacyId": "Q36-21",
+      "question": "A la reprise du 3ème quart temps, l’équipe B se présente à 6 joueurs sur le terrain. L’arbitre s’aperçoit qu’il y a 6 jo"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-22",
+      "keptLegacyId": "Q36-22",
+      "question": "Une faute technique attribuée à un joueur pendant un intervalle est comptabilisée dans les fautes d'équipe pour le quart"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-23",
+      "keptLegacyId": "Q36-23",
+      "question": "Suite à un TM et juste avant de remettre le ballon à A8 chargé de la REJ, les arbitres se rendent\ncompte que l'équipe A "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-24",
+      "keptLegacyId": "Q36-24",
+      "question": "A4 prend le contrôle du ballon au rebond et retombe au sol. Il est alors immédiatement marqué de près par B4. Sans créer"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-25",
+      "keptLegacyId": "Q36-25",
+      "question": "A12 tire au panier. Le ballon touche l'anneau et le rebondeur A9 s'accroche à l'anneau pour jouer\nle ballon. A9 doit-il "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-26",
+      "keptLegacyId": "Q36-26",
+      "question": "Après avoir commis une cinquième faute, B4 est averti qu’il ne peut plus prendre part au jeu. Plus\ntard, B4 revient en j"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-27",
+      "keptLegacyId": "Q36-27",
+      "question": "L'équipe A présente la liste d'équipe cinquante minutes avant la rencontre. Les numéros de deux joueurs sur leurs maillo"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q36-28",
+      "keptLegacyId": "Q36-28",
+      "question": "L'entraîneur B a déjà été sanctionné de 2 FT « B ». Lors d'une bagarre, B6 pénètre sur le terrain.\nL'entraîneur B rentre"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-2",
+      "keptLegacyId": "Q37-2",
+      "question": "Avec 0'53\" à jouer dans la dernière minute de la rencontre, A4 a le ballon dans les mains ou à disposition pour une remi"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-5",
+      "keptLegacyId": "Q37-5",
+      "question": "Pour juger si une faute est antisportive ou non, l'arbitre doit juger l'intention du joueur fautif."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-6",
+      "keptLegacyId": "Q37-6",
+      "question": "Pour juger si la faute est antisportive, les arbitres doivent appliquer les principes suivants :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-8",
+      "keptLegacyId": "Q37-8",
+      "question": "A10 prend le contrôle du ballon lors d'un rebond et il est immédiatement marqué de près par B5, A10 balance excessivemen"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-9",
+      "keptLegacyId": "Q37-9",
+      "question": "Si un joueur fait un effort pour jouer le ballon et un contact excessif non intentionnel se produit, l’arbitre sifflera "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-10",
+      "keptLegacyId": "Q37-10",
+      "question": "B14 intercepte le ballon et part en contre-attaque. Le dernier joueur de l'équipe A qui peut empêcher la contre-attaque "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-11",
+      "keptLegacyId": "Q37-11",
+      "question": "Un joueur doit être disqualifié lorsqu'il est sanctionné de 2 fautes antisportives."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-12",
+      "keptLegacyId": "Q37-12",
+      "question": "A7 tire au panier et B8 commet une faute rude sur cette action de tir. L'arbitre siffle une faute antisportive à B8. Il "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-13",
+      "keptLegacyId": "Q37-13",
+      "question": "Alors que A6 tente un lay-up seul en contre-attaque, B15 le pousse fortement sans jouer le ballon. L'arbitre siffle alor"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-14",
+      "keptLegacyId": "Q37-14",
+      "question": "A4 est sanctionné d'une 2ème faute antisportive. L'arbitre doit :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-15",
+      "keptLegacyId": "Q37-15",
+      "question": "Le joueur A14 a été sanctionné d'une faute antisportive au cours de la 2ème période. Ce même\njoueur se voit infliger une"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-16",
+      "keptLegacyId": "Q37-16",
+      "question": "Une faute antisportive est sifflée à B8 sur A4. Il s'agit de la deuxième faute antisportive de B8.\nLa dernière faute de "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-17",
+      "keptLegacyId": "Q37-17",
+      "question": "A6 est disqualifié parce qu'il vient de commettre sa 2ème faute antisportive.\nComme il ne s'agit pas d'une faute disqual"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q37-18",
+      "keptLegacyId": "Q37-18",
+      "question": "Un joueur doit être disqualifié lorsqu'il est sanctionné d'une faute antisportive et d'une faute technique."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q38-1",
+      "keptLegacyId": "Q38-1",
+      "question": "Un joueur disqualifié peut assister à la fin de la rencontre depuis les tribunes."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q38-2",
+      "keptLegacyId": "Q38-2",
+      "question": "A8 est sanctionné d'une faute technique en 1ère période. Vers la fin du 3ème quart-temps, il est à nouveau sanctionné d'"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q38-3",
+      "keptLegacyId": "Q38-3",
+      "question": "A8 est sanctionné d'une faute disqualifiante après avoir tenu des propos menaçants envers l'arbitre. L'équipe B bénéfici"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q38-4",
+      "keptLegacyId": "Q38-4",
+      "question": "Lorsqu'un entraîneur est disqualifié. Qui le remplace ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q38-5",
+      "keptLegacyId": "Q38-5",
+      "question": "Un joueur doit être disqualifié dès lors qu'il est sanctionné de 3 fautes antisportives."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q38-6",
+      "keptLegacyId": "Q38-6",
+      "question": "Quels sont les acteurs d'une rencontre de basket qui peuvent être sanctionnés d'une faute disqualifiante ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q38-7",
+      "keptLegacyId": "Q38-7",
+      "question": "L'entraîneur de l'équipe A est disqualifié. Il n'y a pas d'entraîneur adjoint. N'importe quel joueur de l'équipe peut al"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q38-8",
+      "keptLegacyId": "Q38-8",
+      "question": "Après une faute disqualifiante, 2 LF sont toujours accordés à l'équipe adverse."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q39-2",
+      "keptLegacyId": "Q39-2",
+      "question": " B8 et A5 tiennent fermement le ballon. Au moment où l'arbitre siffle la situation d'entre-deux, B9 et A4 commencent à s"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q39-3",
+      "keptLegacyId": "Q39-3",
+      "question": "En cas de bagarre, qui est autorisé à quitter la zone de banc pour aider les arbitres à maintenir l'ordre, et ne sera pa"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q39-4",
+      "keptLegacyId": "Q39-4",
+      "question": "Pendant une bagarre, tout remplaçant, joueur exclu ou accompagnateur qui quitte les limites de son banc d'équipe doit êt"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q39-5",
+      "keptLegacyId": "Q39-5",
+      "question": "B8 tente un tir au panier et le marque. Une bagarre commence alors entre A7 et B13. Ces 2 joueurs sont disqualifiés. Le "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q39-6",
+      "keptLegacyId": "Q39-6",
+      "question": "Un entraîneur qui quitte sa zone de banc lors d'une bagarre doit obligatoirement être disqualifié."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q39-7",
+      "keptLegacyId": "Q39-7",
+      "question": "Une bagarre éclate sur le terrain entre B8 et A5. A12, alors remplaçant, rentre sur le terrain afin de défendre son coéq"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q39-8",
+      "keptLegacyId": "Q39-8",
+      "question": "Lors d'une bagarre, le remplaçant B6 pénètre sur le terrain. L'entraîneur B rentre sur le terrain pour retenir B6. Est-c"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q39-9",
+      "keptLegacyId": "Q39-9",
+      "question": "La règle qui définit les sanctions à appliquer en cas de bagarre s'applique aux joueurs sur le terrain ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q40-1",
+      "keptLegacyId": "Q40-1",
+      "question": "En fin de seconde période et simultanément avec le signal de fin du temps de jeu, B4 tente un tir du milieu du terrain. "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q40-2",
+      "keptLegacyId": "Q40-2",
+      "question": "B7 débute un double pas vers le panier. Alors qu'il a posé son 1er appui, A8 le pousse. B7, bien que déséquilibré, lâche"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q40-3",
+      "keptLegacyId": "Q40-3",
+      "question": "Alors que A4 effectue un tir en course, le joueur B9 lui tape l'avant-bras. Le panier est manqué. L'arbitre siffle et ac"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q40-4",
+      "keptLegacyId": "Q40-4",
+      "question": "B12 pénètre dans la zone restrictive et avec son épaule, il pousse son défenseur A5 qui tombe. Que siffle l'arbitre ?"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q40-5",
+      "keptLegacyId": "Q40-5",
+      "question": "Le joueur A5 effectue une remise en jeu. Sur le terrain, le joueur B6 retient le joueur A8 afin de l'empêcher de se déma"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q40-6",
+      "keptLegacyId": "Q40-6",
+      "question": "Le signal de fin de la 2ème période retentit au même moment où B12 veut tenter un tir au panier mais a encore le ballon "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q40-7",
+      "keptLegacyId": "Q40-7",
+      "question": "B13 commet une faute sur A8 qui dribble dans la zone restrictive proche de la ligne de fond. L'arbitre siffle une faute "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q40-8",
+      "keptLegacyId": "Q40-8",
+      "question": "Lors du dernier LF  de B8, sur la situation de rebond, B15 bouscule et fait tomber A14. Le LF est réussi. L'arbitre doit"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q40-9",
+      "keptLegacyId": "Q40-9",
+      "question": "Un joueur ayant commis 5 fautes doit être remplacé dans les 45 secondes."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q40-10",
+      "keptLegacyId": "Q40-10",
+      "question": "A5 vient de commettre sa 5ème faute (faute simple ne donnant pas lieu à des LF) et il est sanctionné d'une faute techniq"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q41-1",
+      "keptLegacyId": "Q41-1",
+      "question": "Les fautes commises pendant la prolongation sont comptabilisées de la façon suivante :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q41-2",
+      "keptLegacyId": "Q41-2",
+      "question": "L'équipe A contrôle le ballon. Le joueur A6 commet une charge sur B7. Il s'agit de la 6ème faute d'équipe. L'arbitre doi"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q41-3",
+      "keptLegacyId": "Q41-3",
+      "question": "A12 commet une faute sur B8 qui est en train de dribbler. Il s'agit de la 4ème faute de l'équipe A. L'arbitre doit accor"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q41-4",
+      "keptLegacyId": "Q41-4",
+      "question": "L'équipe A contrôle le ballon lorsque A7 commet une faute. C'est la 5ème faute de l'équipe A. L'arbitre donne 2 LF à l'é"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q41-5",
+      "keptLegacyId": "Q41-5",
+      "question": "Alors que l'équipe B est dans la pénalité, B12 commet une faute offensive sur A10. L'arbitre siffle et doit:"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-1",
+      "keptLegacyId": "Q42-1",
+      "question": "Le joueur A8 tire au panier en suspension. Alors que le ballon est en l'air, le signal sonore du chronomètre des tirs re"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-2",
+      "keptLegacyId": "Q42-2",
+      "question": "B12 commet une faute sur A4 qui tire en suspension. Tandis que A4 est toujours en action de tir, B4 commet à son tour un"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-3",
+      "keptLegacyId": "Q42-3",
+      "question": "Le joueur A4 dribble et entre en contact avec son défenseur B15. Le 1er arbitre siffle une faute offensive de A4 alors q"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-4",
+      "keptLegacyId": "Q42-4",
+      "question": "Lors d'une situation de double faute, la réparation de chaque faute doit être exécutée."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-5",
+      "keptLegacyId": "Q42-5",
+      "question": "L'équipe A contrôle le ballon. A6 et B12 commettent chacun une faute antisportive. L'arbitre rend le ballon à l'équipe A"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-6",
+      "keptLegacyId": "Q42-6",
+      "question": "A9 tire au panier mais celui-ci n'est pas marqué. Les joueurs A14 et B13, qui se disputent le rebond, commettent chacun "
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-7",
+      "keptLegacyId": "Q42-7",
+      "question": "Alors que A5 détient le ballon pour une RJ, A6 est sanctionné d'une faute personnelle qui donne droit à une RJ pour l'éq"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-8",
+      "keptLegacyId": "Q42-8",
+      "question": "Alors que A9 dribblait, B7 a été sanctionné d'une FT. A5 détient le ballon pour tirer le LF, lorsqu’A6 est sanctionné d'"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-9",
+      "keptLegacyId": "Q42-9",
+      "question": "Alors que A9 dribblait, B7 a été sanctionné d'une FT. Alors que le ballon n'est pas encore à la disposition du joueur ch"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-10",
+      "keptLegacyId": "Q42-10",
+      "question": "B12 commet une faute antisportive contre A8 qui tire à 3 pts. Le tir est manqué. Le joueur A8\nmécontent est sanctionné à"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-11",
+      "keptLegacyId": "Q42-11",
+      "question": "Durant l'intervalle entre la 2ème et la 3ème période, A5 et B6 se battent en fond de terrain et sont disqualifiés. La re"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q42-10",
+      "keptLegacyId": "Q42-10",
+      "question": "B12 commet une faute antisportive contre A8 qui tire à 2 pts. Le tir est réussi. Le joueur A8\nmécontent est sanctionné à"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q43-1",
+      "keptLegacyId": "Q43-1",
+      "question": "Les joueurs qui ne sont pas dans les places de rebond doivent rester derrière la ligne de lancer franc prolongée et derr"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q43-2",
+      "keptLegacyId": "Q43-2",
+      "question": "Pendant les tirs de lancers francs, les joueurs alignés ne doivent pas:"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q43-3",
+      "keptLegacyId": "Q43-3",
+      "question": "B7 tire des lancers francs. Lors du dernier lancer, A13 et B9 entrent en même temps dans la zone restrictive avant que l"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q43-4",
+      "keptLegacyId": "Q43-4",
+      "question": "A9 tire son dernier lancer franc et il le marque. En retombant, son pied franchit involontairement la ligne de lancer fr"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q43-5",
+      "keptLegacyId": "Q43-5",
+      "question": "B9 commet une faute sur A7 qui se blesse. Il est remplacé par A10. Le joueur A13 se présente pour tirer les lancers fran"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q43-6",
+      "keptLegacyId": "Q43-6",
+      "question": "Une faute technique est sifflée à un joueur de l'équipe A. L'entraîneur de l'équipe B doit alors désigner un joueur de s"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q43-7",
+      "keptLegacyId": "Q43-7",
+      "question": "Le tireur de LF peut quitter le demi-cercle ou toucher la ligne de LF dès que le ballon a quitté ses mains."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q43-8",
+      "keptLegacyId": "Q43-8",
+      "question": "A5 tire un LF, et le marque mais son pied a franchi la ligne des LF. L'arbitre doit :"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q43-9",
+      "keptLegacyId": "Q43-9",
+      "question": "Le joueur A5 tire un lancer franc et le joueur B8 pénètre dans la zone restrictive juste avant que le ballon ne quitte l"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q43-10",
+      "keptLegacyId": "Q43-10",
+      "question": "Le joueur B7 tire un LF et le réussit. Le joueur A4 est parti avant que le ballon ne quitte les mains du tireur. L'arbit"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q44-2",
+      "keptLegacyId": "Q44-2",
+      "question": "Une erreur rectifiable peut-être corrigée après que les arbitres ont signé la feuille de marque."
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q44-3",
+      "keptLegacyId": "Q44-3",
+      "question": "Des LF immérités ont été accordés. L'arbitre rectifie son erreur après que les LF ont été marqués. Toutefois, les LF réu"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q44-4",
+      "keptLegacyId": "Q44-4",
+      "question": "A8 tire un LF et commet une violation. Le LF est réussi. L'équipe B fait la remise en jeu à la suite du LF. A7 intercept"
+    },
+    {
+      "skipped": "2022",
+      "kept": "2025",
+      "legacyId": "Q44-8",
+      "keptLegacyId": "Q44-7",
+      "question": "B5 est sanctionné d’une faute sur A9 qui tirait à 2 points. Le panier n’est pas marqué. Un temps-mort\nest ensuite accord"
+    }
+  ],
+  "anomaliesCount": 51,
+  "anomalies": [
+    {
+      "type": "no_answers",
+      "id": 443,
+      "legacyId": "Q16-4",
+      "source": "2022",
+      "sheet": "ART 16 PANIER REUSSI ET VALEUR",
+      "question": "A15 effectue une remise en jeu. Il fait la passe et B10 qui défend (dans la zone à trois points) dévie le ballon et le ballon entre dans le "
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 443,
+      "legacyId": "Q16-4",
+      "source": "2022",
+      "sheet": "ART 16 PANIER REUSSI ET VALEUR",
+      "question": "A15 effectue une remise en jeu. Il fait la passe et B10 qui défend (dans la zone à trois points) dévie le ballon et le ballon entre dans le "
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 443,
+      "legacyId": "Q16-4",
+      "source": "2022",
+      "sheet": "ART 16 PANIER REUSSI ET VALEUR",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 444,
+      "legacyId": "Q17-5",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "question": "Il reste 1mn39 sec à jouer dans le dernier quart-temps lorsque l'équipe B marque un panier. Un temps mort est accordé à l'équipe A. La remis"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 444,
+      "legacyId": "Q17-5",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "question": "Il reste 1mn39 sec à jouer dans le dernier quart-temps lorsque l'équipe B marque un panier. Un temps mort est accordé à l'équipe A. La remis"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 444,
+      "legacyId": "Q17-5",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 445,
+      "legacyId": "Q17-13",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "question": "Dans les deux dernières minutes de la rencontre, A5 bénéficie de 2 LF. Lors du 1er LF, l'équipe A\ndemande un TM. A5 commet une violation sur"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 445,
+      "legacyId": "Q17-13",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "question": "Dans les deux dernières minutes de la rencontre, A5 bénéficie de 2 LF. Lors du 1er LF, l'équipe A\ndemande un TM. A5 commet une violation sur"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 445,
+      "legacyId": "Q17-13",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 446,
+      "legacyId": "Q17-14",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "question": "Il reste 1'50'' dans le 4ème ¼ temps, l'équipe A bénéficie d'une remise en jeu dans sa zone arrière\net l'équipe B demande un temps mort. La "
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 446,
+      "legacyId": "Q17-14",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "question": "Il reste 1'50'' dans le 4ème ¼ temps, l'équipe A bénéficie d'une remise en jeu dans sa zone arrière\net l'équipe B demande un temps mort. La "
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 446,
+      "legacyId": "Q17-14",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 447,
+      "legacyId": "Q17-15",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "question": "Dans les deux dernières minutes du 4ème QT, suite à un panier marqué par B6, l’équipe A bénéficie\nde la REJ derrière la ligne de fond. L’ent"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 447,
+      "legacyId": "Q17-15",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "question": "Dans les deux dernières minutes du 4ème QT, suite à un panier marqué par B6, l’équipe A bénéficie\nde la REJ derrière la ligne de fond. L’ent"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 447,
+      "legacyId": "Q17-15",
+      "source": "2022",
+      "sheet": "ART 17 REJ",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 448,
+      "legacyId": "Q18-20",
+      "source": "2022",
+      "sheet": "ART 18 TEMPS MORT",
+      "question": "A4 marque un panier alors que le chronomètre de jeu indique 2:02 dans la dernière période.\nL’entraineur A a demandé un temps-mort. Dès que l"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 448,
+      "legacyId": "Q18-20",
+      "source": "2022",
+      "sheet": "ART 18 TEMPS MORT",
+      "question": "A4 marque un panier alors que le chronomètre de jeu indique 2:02 dans la dernière période.\nL’entraineur A a demandé un temps-mort. Dès que l"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 448,
+      "legacyId": "Q18-20",
+      "source": "2022",
+      "sheet": "ART 18 TEMPS MORT",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 449,
+      "legacyId": "Q39-1",
+      "source": "2022",
+      "sheet": "ART 39 BAGARRE",
+      "question": "L’équipe A est en possession du ballon depuis 20 sec lorsqu’une situation pouvant conduire à une bagarre se produit. Les arbitres disqualifi"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 449,
+      "legacyId": "Q39-1",
+      "source": "2022",
+      "sheet": "ART 39 BAGARRE",
+      "question": "L’équipe A est en possession du ballon depuis 20 sec lorsqu’une situation pouvant conduire à une bagarre se produit. Les arbitres disqualifi"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 449,
+      "legacyId": "Q39-1",
+      "source": "2022",
+      "sheet": "ART 39 BAGARRE",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 450,
+      "legacyId": "Q44-1",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "Une faute antisportive est commise par B7 sur A4. A la place d'A4, c'est A5 qui tente les 2 lancers francs. L'erreur est découverte avant qu"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 450,
+      "legacyId": "Q44-1",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "Une faute antisportive est commise par B7 sur A4. A la place d'A4, c'est A5 qui tente les 2 lancers francs. L'erreur est découverte avant qu"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 450,
+      "legacyId": "Q44-1",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 451,
+      "legacyId": "Q44-5",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "A6 bénéficie de 2LF. A7 se présente, tire et réussit les 2 LF. La remise en jeu est effectuée par l'équipe B. L'erreur est découverte et les"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 451,
+      "legacyId": "Q44-5",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "A6 bénéficie de 2LF. A7 se présente, tire et réussit les 2 LF. La remise en jeu est effectuée par l'équipe B. L'erreur est découverte et les"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 451,
+      "legacyId": "Q44-5",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 452,
+      "legacyId": "Q44-6",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "A5 est sanctionné d'une faute (5ème de l'équipe dans la période). Les arbitres mettent le ballon à disposition pour une RJ et oublient de do"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 452,
+      "legacyId": "Q44-6",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "A5 est sanctionné d'une faute (5ème de l'équipe dans la période). Les arbitres mettent le ballon à disposition pour une RJ et oublient de do"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 452,
+      "legacyId": "Q44-6",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 453,
+      "legacyId": "Q44-7",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "A5 est sanctionné d'une faute sur B12 (4ème de l'équipe dans la période). Les arbitres accordent par erreur 2 LF à B12 qui réussit les 2 LF."
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 453,
+      "legacyId": "Q44-7",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "A5 est sanctionné d'une faute sur B12 (4ème de l'équipe dans la période). Les arbitres accordent par erreur 2 LF à B12 qui réussit les 2 LF."
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 453,
+      "legacyId": "Q44-7",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 454,
+      "legacyId": "Q44-9",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "Au début du 4ème QT, A7 marque un panier à 3 points. Les arbitres accordent le panier à 3 points\nmais le marqueur n'inscrit que 2 points. Ap"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 454,
+      "legacyId": "Q44-9",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "Au début du 4ème QT, A7 marque un panier à 3 points. Les arbitres accordent le panier à 3 points\nmais le marqueur n'inscrit que 2 points. Ap"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 454,
+      "legacyId": "Q44-9",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 455,
+      "legacyId": "Q44-10",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "B4 commet une faute antisportive sur A4. Au lieu de A4, A5 tente les LF. Avant la REJ consécutive\naux LF, l'erreur est découverte par les ar"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 455,
+      "legacyId": "Q44-10",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "B4 commet une faute antisportive sur A4. Au lieu de A4, A5 tente les LF. Avant la REJ consécutive\naux LF, l'erreur est découverte par les ar"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 455,
+      "legacyId": "Q44-10",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 456,
+      "legacyId": "Q44-11",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "A5 est sanctionné d'une faute (5ème de l'équipe dans la période). Les arbitres remettent en jeu par\nune REJ et oublient de donner 2 LF à l'é"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 456,
+      "legacyId": "Q44-11",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "A5 est sanctionné d'une faute (5ème de l'équipe dans la période). Les arbitres remettent en jeu par\nune REJ et oublient de donner 2 LF à l'é"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 456,
+      "legacyId": "Q44-11",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 457,
+      "legacyId": "Q44-12",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "A 3 secondes de la fin de la 2nde période, deux lancers francs sont oubliés pour A6 suite à la 5ème\nfaute de l’équipe B. A la suite de la re"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 457,
+      "legacyId": "Q44-12",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "A 3 secondes de la fin de la 2nde période, deux lancers francs sont oubliés pour A6 suite à la 5ème\nfaute de l’équipe B. A la suite de la re"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 457,
+      "legacyId": "Q44-12",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 458,
+      "legacyId": "Q44-13",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "B4 commet une faute sur A4 et c’est la sixième faute de l’équipe B. Deux lancers francs sont\nattribués à A4. C’est A5 qui tire les deux lanc"
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 458,
+      "legacyId": "Q44-13",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "B4 commet une faute sur A4 et c’est la sixième faute de l’équipe B. Deux lancers francs sont\nattribués à A4. C’est A5 qui tire les deux lanc"
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 458,
+      "legacyId": "Q44-13",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "answers": 0
+    },
+    {
+      "type": "no_answers",
+      "id": 459,
+      "legacyId": "Q44-14",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "B6 commet une faute sur A5 qui tire au panier. Le panier est manqué mais l’arbitre accorde le\npanier et donne un lancer-franc marqué par A5."
+    },
+    {
+      "type": "no_correct_answer",
+      "id": 459,
+      "legacyId": "Q44-14",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "question": "B6 commet une faute sur A5 qui tire au panier. Le panier est manqué mais l’arbitre accorde le\npanier et donne un lancer-franc marqué par A5."
+    },
+    {
+      "type": "less_than_two_answers",
+      "id": 459,
+      "legacyId": "Q44-14",
+      "source": "2022",
+      "sheet": "ART 44 ERREURS RECTIFIABLES",
+      "answers": 0
+    }
+  ]
+}
